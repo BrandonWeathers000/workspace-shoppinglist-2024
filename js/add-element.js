@@ -21,6 +21,7 @@ $('#two').prev().text("Water");
 
 // add a new element by clicking the plus sign
 // $('#todo').append('<li class="cool">Meat</li>');
+$('#todo').append('<li class="cool"> meat </li>');
 $('#add').click(addElement);
 
 // before and after are for siblings
